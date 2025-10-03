@@ -1,16 +1,14 @@
-## Hi there 👋
+<div style="background-color:white; padding:20px; display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<!--
-**aishadeltio13/aishadeltio13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Imagen a la izquierda -->
+  <img src="PATRICIO.gif" alt="PATRICIO" style="max-width:400px; height:auto;">
 
-Here are some ideas to get you started:
+  <!-- Texto a la derecha -->
+  <div style="color:#4B0082;">
+    <span style="font-size:48px; font-weight:bold; display:block;">Soy Aisha</span>
+    <span style="font-size:24px; font-weight:bold; display:block; margin-top:10px;">
+      Por aquí iré compartiendo cómo va mi aventura de convertirme experta en BIG DATA 
+    </span>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
